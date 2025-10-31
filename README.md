@@ -8,3 +8,6 @@ A small library for inferring exon and intron homologies of paralogous genes. Cu
 5. Searching for exons missing from orhtogroups in corresponding introns with blast
 6. Pretty and flexible visualization of results based on matplotlib
 7. Zoom to any desired MSA fragment for sequence inspection
+
+Example usecase is in example.ipynb
+   
